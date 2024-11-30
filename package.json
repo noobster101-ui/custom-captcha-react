@@ -1,6 +1,6 @@
 {
   "name": "custom-captcha-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://custom-table-sample.vercel.app/",
   "description": "A customizable CAPTCHA component for React projects. Add a secure, flexible CAPTCHA to your React applications with ease.",
   "main": "dist/index.js",
