@@ -1,6 +1,6 @@
 {
   "name": "custom-captcha-react",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "homepage": "https://custom-table-sample.vercel.app/",
   "description": "A customizable CAPTCHA component for React projects. Add a secure, flexible CAPTCHA to your React applications with ease.",
   "main": "dist/index.js",
@@ -17,11 +17,8 @@
     "test": "echo \"No test specified\" && exit 1"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
-  },
-  "dependencies": {
-    "@fortawesome/react-fontawesome": "^0.2.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
